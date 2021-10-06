@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<interface-response>
+    <Command>SETDNSHOST</Command>
+    <Language>eng</Language>
+    <IP>84.39.17.13</IP>
+    <ErrCount>0</ErrCount>
+    <ResponseCount>0</ResponseCount>
+    <Done>true</Done>
+    <debug><![CDATA[]]></debug>
+</interface-response>
